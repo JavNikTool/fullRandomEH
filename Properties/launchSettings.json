@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fullRandomEHWPF": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Job\\c_sharp\\app1\\fullRandomEHWPF"
+    }
+  }
+}

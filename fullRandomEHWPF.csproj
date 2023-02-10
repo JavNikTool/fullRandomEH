@@ -23,6 +23,8 @@
     <None Remove="img\main_bg.jpg" />
   </ItemGroup>
 
+ 
+
   <ItemGroup>
     <Resource Include="img\buttons\minimize_window.png" />
     <Resource Include="img\buttons\сlose_window.png" />
